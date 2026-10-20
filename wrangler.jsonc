@@ -29,5 +29,6 @@
     // Keep only non-sensitive deployment defaults here. Set per-deployment
     // secrets and user-specific defaults in the Cloudflare dashboard.    ljj  hosted
     "DEPLOYMENT_MODE": "local",
+    "ALLOW_INSECURE_LOCAL_PRODUCTION": "true",
   },
 }
